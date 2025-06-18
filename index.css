@@ -1,0 +1,25 @@
+.navbar
+{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+.menu
+{
+    display: flex;
+    gap: 25px;
+}
+.button
+{
+    background-color: orange;
+    color: white;
+    width: 100px;
+    height: 30px;
+    padding: 5px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 20px;
+    font-size: 15px;
+    font-weight: bold;
+}
